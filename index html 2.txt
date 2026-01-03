@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tamu Bakery</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+
+<header>
+    <h1>tamu Bakery</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="products.html">Products</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <span class="cart">🛒 Cart: <span id="cart-count">0</span></span>
+        <button id="theme-toggle">🌙</button>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2 id="greeting"></h2>
+        <p id="date"></p>
+        <p>Freshly baked goods made with love every day.</p>
+    </section>
+</main>
+
+<footer>
+    <p>© 2026 tamu Bakery</p>
+</footer>
+
+</body>
+</html>

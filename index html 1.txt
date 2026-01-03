@@ -1,0 +1,12 @@
+Tamu-bakery/
+│
+├── index.html        (Homepage)
+├── products.html     (Products page)
+├── about.html        (About page)
+├── contact.html      (Contact page)
+├── styles.css        (CSS styling)
+├── script.js         (JavaScript interactivity)
+└── images/
+    ├── cake.jpg
+    ├── bread.jpg
+    └── cookies.jpg
